@@ -37,7 +37,3 @@
 - type: lobbyBackground
   id: Behonker
   background: /Textures/LobbyScreens/behonker.webp
-
-- type: lobbyBackground
-  id: Spaceport
-  background: /Textures/LobbyScreens/spaceport.webp
