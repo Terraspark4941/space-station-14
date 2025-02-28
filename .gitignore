@@ -310,3 +310,4 @@ Resources/MapImages
 # Local files
 .run/*
 CppProperties.json
+.github/*
